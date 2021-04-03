@@ -1,0 +1,1 @@
+export const sentence = "Everything seems to be working!";
